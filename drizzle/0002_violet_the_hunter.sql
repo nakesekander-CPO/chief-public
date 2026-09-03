@@ -1,0 +1,1 @@
+ALTER TABLE `oauth_states` ADD `code_verifier_cipher` text NOT NULL;
